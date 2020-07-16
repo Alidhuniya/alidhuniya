@@ -15,7 +15,7 @@
 
 Hi, I'm Ali Hussain Dhuniya, a passionate self-taught frontEnd web developer from Nepal and currently improving my Frontend Skills by making projects.
 
-- 🔭 I’m currently working on my project with Strapi CMS [schoolWebsite](https://github.com/Alidhuniya/schoolWebsite-StrapiCMS)
+- 🔭 I’m currently working on my project with Strapi CMS. see live: [schoolWebsite](https://alidhuniya.github.io/schoolWebsite-StrapiCMS/)
 - 🌱 I’m currently learning JavaScript & JAM Stack
 <!-- - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) -->
 - 💬 Ask me about anything [here](https://github.com/Alidhuniya/alidhuniya/issues)
