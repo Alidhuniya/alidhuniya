@@ -41,6 +41,6 @@ Hi, I'm Ali Hussain Dhuniya, a passionate self-taught frontEnd web developer fro
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Alidhuniya&repo=html-css-into-react-app&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
-<a href="https://github.com/Alidhuniya/musician-band">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Alidhuniya&repo=musician-band&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<a href="https://github.com/Alidhuniya/schoolWebsite-StrapiCMS">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Alidhuniya&repo=schoolWebsite-StrapiCMS&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
