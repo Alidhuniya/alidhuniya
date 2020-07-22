@@ -15,9 +15,9 @@
 
 Hi, I'm Ali Hussain Dhuniya, a passionate self-taught frontEnd web developer from Nepal and currently improving my Frontend Skills by making projects.
 
-- 🔭 I’m currently working on my project with Strapi CMS. see live: [Ecommerce-site](https://alidhuniya.github.io/Ecommerce-web-app-vanillaJS-with-strapi/index.html)
+
+- 🔭 I’m currently learning React & Redux
 - 🌱 I’m currently learning JavaScript & JAM Stack
-<!-- - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) -->
 - 💬 Ask me about anything [here](https://github.com/Alidhuniya/alidhuniya/issues)
 
 **Languages and Tools:**  
@@ -26,21 +26,23 @@ Hi, I'm Ali Hussain Dhuniya, a passionate self-taught frontEnd web developer fro
 <code><img height="20" src="https://www.iconninja.com/files/64/358/407/css3-icon.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg"></code>
-<code><img height="20" src="https://www.netclipart.com/pp/m/112-1128381_build-a-rest-api-with-express-course-e.png"></code>
+<code><img height="20" src="https://www.drupal.org/files/project-images/rain-drop-hi.png"></code>
 
 
-[![Ali's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Alidhuniya&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Alidhuniya)
+[![Ali's github stats](https://github-readme-stats.vercel.app/api?username=Alidhuniya&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Alidhuniya)
 
 
+
+<a href="https://github.com/Alidhuniya/Ecommerce-web-app-vanillaJS-with-strapi">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Alidhuniya&repo=Ecommerce-web-app-vanillaJS-with-strapi&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
 
 <a href="https://github.com/Alidhuniya/linguisticCenter">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Alidhuniya&repo=linguisticCenter&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Alidhuniya&repo=linguisticCenter&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
-<a href="https://github.com/Alidhuniya/html-css-into-react-app">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Alidhuniya&repo=html-css-into-react-app&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
 
 <a href="https://github.com/Alidhuniya/schoolWebsite-StrapiCMS">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Alidhuniya&repo=schoolWebsite-StrapiCMS&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
+
