@@ -1,7 +1,7 @@
 ### Hi there, I'm [Ali Dhuniya!](https://github.com/Alidhuniya) 👋
 
-<a href="https://codepen.io/dhuniya">
-  <img style="margin-right: 1.3rem;" align="left" alt="Ali Dhuniya | Codepen" width="20px" src="https://gravatar.com/avatar/339a6f1ad566b27926758f1a73fd8aa5?d=https%3A%2F%2Fassets.codepen.io%2Finternal%2Favatars%2Fusers%2Fdefault.png&format=auto&height=512&version=0&width=512" />
+<a href="https://www.linkedin.com/in/alihussaindhuniya/">
+  <img style="margin-right: 1.3rem;" align="left" alt="Ali Dhuniya | Codepen" width="20px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1617003052~hmac=42ab7bfd0d40bd95e3fce920af446ed8" />
 </a>
 <a href="https://twitter.com/DhuniyaAli">
   <img style="margin-right: 1.3rem;" align="left" alt="Ali Dhuniya | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
@@ -13,11 +13,11 @@
 <br />
 <br />
 
-Hi, I'm Ali Hussain Dhuniya, a passionate self-taught frontEnd web developer from Nepal and currently improving my Frontend Skills by making projects.
+Hi, I'm Ali Hussain Dhuniya, a Frontend Developer who use Javascript, React, Redux,Sass and Webpack to build UI applications.
 
 
-- 🔭 I’m currently learning React & Redux
-- 🌱 I’m currently learning JavaScript & JAM Stack
+- 🔭 I’m currently learning Typescript
+- 🌱 I’m currently learning JAM Stack
 - 💬 Ask me about anything [here](https://github.com/Alidhuniya/alidhuniya/issues)
 
 **Languages and Tools:**  
@@ -26,15 +26,15 @@ Hi, I'm Ali Hussain Dhuniya, a passionate self-taught frontEnd web developer fro
 <code><img height="20" src="https://www.iconninja.com/files/64/358/407/css3-icon.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg"></code>
-<code><img height="20" src="https://www.drupal.org/files/project-images/rain-drop-hi.png"></code>
+
 
 
 [![Ali's github stats](https://github-readme-stats.vercel.app/api?username=Alidhuniya&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Alidhuniya)
 
 
 
-<a href="https://github.com/Alidhuniya/Ecommerce-web-app-vanillaJS-with-strapi">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Alidhuniya&repo=Ecommerce-web-app-vanillaJS-with-strapi&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<a href="https://github.com/Alidhuniya/HTMLCSS-Projects">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Alidhuniya&repo=HTMLCSS-Projects&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
 <a href="https://github.com/Alidhuniya/linguisticCenter">
