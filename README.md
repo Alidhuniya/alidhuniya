@@ -1,4 +1,4 @@
-### Hi there, I'm [Ali Dhuniya!](https://github.com/Alidhuniya) 👋
+### Hi there, I'm [Ali Dhuniya!](https://github.com/Alidhuniya) 👋 and I'm looking for Frontend Position.
 
 <a href="https://www.linkedin.com/in/alihussaindhuniya/">
   <img style="margin-right: 1.3rem;" align="left" alt="Ali Dhuniya | Codepen" width="20px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1617003052~hmac=42ab7bfd0d40bd95e3fce920af446ed8" />
