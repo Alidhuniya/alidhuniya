@@ -1,13 +1,13 @@
 ### Hi there, I'm [Ali Dhuniya!](https://github.com/Alidhuniya) 👋 and I'm looking for Frontend Position.
 
 <a href="https://www.linkedin.com/in/alihussaindhuniya/">
-  <img style="margin-right: 1.3rem;" align="left" alt="Ali Dhuniya | Codepen" width="20px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1617003052~hmac=42ab7bfd0d40bd95e3fce920af446ed8" />
+  <img style="margin-right: 1.3rem;" align="left" alt="Ali Dhuniya | Linkedin" width="50px" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" />
 </a>
 <a href="https://twitter.com/DhuniyaAli">
-  <img style="margin-right: 1.3rem;" align="left" alt="Ali Dhuniya | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img style="margin-right: 1.3rem;" align="left" alt="Ali Dhuniya | Twitter" width="30px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://dev.to/alidhuniya">
-  <img align="left" alt="Dev" width="21px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--g3JdSGe6--/c_limit,f_auto,fl_progressive,q_80,w_190/https://practicaldev-herokuapp-com.freetls.fastly.net/assets/rainbowdev.svg" />
+  <img align="left" alt="Dev" width="30px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--g3JdSGe6--/c_limit,f_auto,fl_progressive,q_80,w_190/https://practicaldev-herokuapp-com.freetls.fastly.net/assets/rainbowdev.svg" />
 </a>
 
 <br />
