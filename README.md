@@ -1,4 +1,4 @@
-### Hi there, I'm [Ali Dhuniya!](https://github.com/Alidhuniya) 👋 and I'm looking for Frontend Position.
+### Hi there, I'm [Ali Hussain Dhuniya!](https://github.com/Alidhuniya) 👋 and I do frontend stuff besides marketing.
 
 <a href="https://www.linkedin.com/in/alihussaindhuniya/">
   <img style="margin-right: 1.3rem;" align="left" alt="Ali Dhuniya | Linkedin" width="50px" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" />
